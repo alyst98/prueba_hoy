@@ -1,2 +1,2 @@
 # prueba_hoy
-este es una prueba de como subir proyectos 
+Este es una prueba de como subir proyectos 
